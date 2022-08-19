@@ -1,0 +1,15 @@
+D:\Beetroot\Lesson3\Lesson10\ExceptionApp\bin\Debug\ExceptionApp.exe.config
+D:\Beetroot\Lesson3\Lesson10\ExceptionApp\bin\Debug\ExceptionApp.exe
+D:\Beetroot\Lesson3\Lesson10\ExceptionApp\bin\Debug\ExceptionApp.pdb
+D:\Beetroot\Lesson3\Lesson10\ExceptionApp\obj\Debug\ExceptionApp.csproj.AssemblyReference.cache
+D:\Beetroot\Lesson3\Lesson10\ExceptionApp\obj\Debug\ExceptionApp.csproj.SuggestedBindingRedirects.cache
+D:\Beetroot\Lesson3\Lesson10\ExceptionApp\obj\Debug\ExceptionApp.csproj.CoreCompileInputs.cache
+D:\Beetroot\Lesson3\Lesson10\ExceptionApp\obj\Debug\ExceptionApp.exe
+D:\Beetroot\Lesson3\Lesson10\ExceptionApp\obj\Debug\ExceptionApp.pdb
+C:\Users\D.Putrya\source\repos\lesson10\ExceptionApp\bin\Debug\ExceptionApp.exe.config
+C:\Users\D.Putrya\source\repos\lesson10\ExceptionApp\bin\Debug\ExceptionApp.exe
+C:\Users\D.Putrya\source\repos\lesson10\ExceptionApp\bin\Debug\ExceptionApp.pdb
+C:\Users\D.Putrya\source\repos\lesson10\ExceptionApp\obj\Debug\ExceptionApp.csprojAssemblyReference.cache
+C:\Users\D.Putrya\source\repos\lesson10\ExceptionApp\obj\Debug\ExceptionApp.csproj.CoreCompileInputs.cache
+C:\Users\D.Putrya\source\repos\lesson10\ExceptionApp\obj\Debug\ExceptionApp.exe
+C:\Users\D.Putrya\source\repos\lesson10\ExceptionApp\obj\Debug\ExceptionApp.pdb
